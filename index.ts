@@ -3,5 +3,7 @@ let n2: number = 30;
 
 console.log(`Application is running`);
 
+
 const exponentiation: number = n1 ** n2;
 console.log(`hasil perpangkatan ${n1} ** ${n2} = ${exponentiation}`);
+
