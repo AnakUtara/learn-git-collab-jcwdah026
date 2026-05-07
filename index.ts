@@ -5,3 +5,5 @@ console.log(`Application is running`);
 
 const multiplication: number = n1 * n2;
 console.log(`Hasil perkalian ${n1} * ${n2} = ${multiplication}`);
+const multiplication: number = n1 * n2;
+console.log(`Hasil perkalian ${n1} * ${n2} = ${multiplication}`);
