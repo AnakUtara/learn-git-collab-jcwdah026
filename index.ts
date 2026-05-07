@@ -3,7 +3,7 @@ let n2: number = 30;
 
 console.log(`Application is running`);
 
-const multiplication: number = n1 * n2;
-console.log(`Hasil perkalian ${n1} * ${n2} = ${multiplication}`);
-const multiplication: number = n1 * n2;
-console.log(`Hasil perkalian ${n1} * ${n2} = ${multiplication}`);
+
+const exponentiation: number = n1 ** n2;
+console.log(`hasil perpangkatan ${n1} ** ${n2} = ${exponentiation}`);
+
